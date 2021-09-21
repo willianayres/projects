@@ -1,0 +1,14 @@
+ ************OOO******OIO****OOIIIOO**OOOIOOO**OOOIOOO****OOO******OOO************  6
+ ************OOO******OIO****OOOIOOO**OIIIIIO**OOOIOOO****OIO******OOO************  9
+ ************III******III****OOIIIOO**OOIOIOO**OOOOOOO****OOO******OOO************  11
+ ************OIO******III****OIIIIIO**OOOIOOO**OOOIOOO****III******III************  17
+ ************OOO******OIO****OOIIIOO**OIIIIIO**IIIIIII****OOO******OOO************  16
+ ************OIO******III****OIIIIIO**IIIOIII**OIIIIIO****III******OIO************  24
+ ************III******III****IIIIIII**IIIOIII**IIIIIII****III******III************  32
+     Tabuleiro Cruz
+     Tabuleiro Mais
+  Tabuleiro Banquinho
+    Tabuleiro Flecha
+   Tabuleiro Pirâmide
+    Tabuleiro Losângo
+ Tabuleiro Tradicional

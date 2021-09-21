@@ -1,0 +1,15 @@
+Nome                       Tabuleiro               Resultado       Jogadas      Tempo
+
+professor rebellat       Tabuleiro Cruz            $Ganhou            5          0:10
+
+willian                  Tabuleiro Mais            $Ganhou            8          0:18
+
+teste                 Tabuleiro Banquinho          $Ganhou            11         0:26
+
+teste2                  Tabuleiro Flecha           $Ganhou            16         0:51
+
+willi                  Tabuleiro Pirâmide          $Ganhou            15         0:45
+
+bora                    Tabuleiro Losângo          $Ganhou            24         1:38
+
+will                 Tabuleiro Tradicional         $Ganhou            32         1:27
