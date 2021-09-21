@@ -1,0 +1,26 @@
+    OBJETIVO: Resta Um eh um jogo de tabuleiro, cujo objetivo eh,
+por meio de movimentos validos, deixar apenas uma peca no 
+tabuleiro. Em seu formato mais difundido, o tabuleiro consiste em 
+33 posicoes dispostas em formato de cruz, em que 32 posicoes sao
+preenchidas por pinos(pecas), e a posicao central eh deixada 
+vazia. Os pinos se movem pulando sobre os outros na horizontal e 
+na vertical, nunca na diagonal. Para mover-se, um pino deve pular 
+sobre outro que lhe seja adjacente, caindo numa casa vazia 
+imediatamente seguinte. O pino que foi pulado eh retirado do jogo.
+O jogo termina quando nao eh mais possivel fazer nenhum outro 
+movimento. Nesta ocasiao, o jogador ganha se RESTAR APENAS UM PINO.
+    COMANDOS: No menu, existem varias opcoes de tabuleiro. Assim 
+que escolher alguma, precione ENTER se estiver jogando pelo 
+teclado. Em seguida, o tabuleiro sera exibido na tela e o jogo 
+comecara. O jogador percorre com as SETAS ao longo do tabuleiro e 
+preciona ENTER caso deseja movimentar a peca. Entao, se existirem
+movimentos possiveis, sera mostrado as posicoes validas para 
+movimentar a peca. Assim que inserirido a direcao do movimento 
+escolhido, podendo ser com o uso das setas do teclado, ou com o 
+MOUSE, o jogo atualizara e imprimira na tela o tabuleiro ja 
+alterado. Caso nao queira mais jogar, aperte (V). Caso digite (R),
+voce podera retornar a jogada anterior se for possivel. Assim 
+que nao restar mais jogadas possiveis, sera mostrado na tela se
+o jogador ganhou ou perdeu e caso desejar, podera digitar o nome.
+O menu tambem possui historico e ranking, alem do menu de ajustes,
+onde pode ser alterado volume e aparencia do jogo a sua escolha.
