@@ -1,0 +1,14 @@
+  Este programa implementa um simulador
+para o jogo "Resta Um". Um jogo simples,
+fácil compreendimento, divertido e até
+complexo dependendo do tabuleiro jogado.
+  O simulador é prático, sendo executado
+tanto com o mouse, quanto com o teclado.
+  Possui uma diversidade de 42 tabuleiros
+e muitas combinações de configurações
+para visual.
+  O que está esperando? Instale o jogo
+e comece a jogar o quanto antes!
+
+
+  Divirta-se!!!

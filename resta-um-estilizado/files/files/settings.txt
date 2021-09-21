@@ -1,0 +1,1 @@
+ bitmaps\board\bi3.bmp bitmaps\board\bf3.bmp bitmaps\piece_bg\p_bg3.bmp bitmaps\bg\bg3.bmp bitmaps\button\big3.bmp bitmaps\logo\l3.bmp bitmaps\button\medium3.bmp bitmaps\button\small3.bmp bitmaps\button\title3.bmp bitmaps\piece\p3.bmp bitmaps\piece\valid3.bmp 184 66
