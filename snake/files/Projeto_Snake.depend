@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1598585261 source:c:\users\willian\documents\programas\projeto_snake\main.cpp
+	"game.h"
+
+1598906089 c:\users\willian\documents\programas\projeto_snake\classes.h
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+	"position.h"
+
+1598905423 source:c:\users\willian\documents\programas\projeto_snake\classes.cpp
+	"classes.h"
+
+1598493474 source:c:\users\willian\documents\programas\projeto_snake\position.cpp
+	"position.h"
+
+1598493460 c:\users\willian\documents\programas\projeto_snake\position.h
+	<Windows.h>
+
+1598906047 source:c:\users\willian\documents\programas\projeto_snake\game.cpp
+	"game.h"
+
+1598493683 c:\users\willian\documents\programas\projeto_snake\game.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	"position.h"
+	"classes.h"
+
+1598909622 source:c:\users\willian\documents\programas\projeto_snake\projeto_snake\classes.cpp
+	"classes.h"
+
+1598906089 c:\users\willian\documents\programas\projeto_snake\projeto_snake\classes.h
+	<iostream>
+	<vector>
+	<string>
+	<time.h>
+	"position.h"
+
+1598493460 c:\users\willian\documents\programas\projeto_snake\projeto_snake\position.h
+	<Windows.h>
+
+1599156523 source:c:\users\willian\documents\programas\projeto_snake\projeto_snake\main.cpp
+	"game.h"
+
+1598493683 c:\users\willian\documents\programas\projeto_snake\projeto_snake\game.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	"position.h"
+	"classes.h"
+
+1598493474 source:c:\users\willian\documents\programas\projeto_snake\projeto_snake\position.cpp
+	"position.h"
+
+1599155541 source:c:\users\willian\documents\programas\projeto_snake\projeto_snake\game.cpp
+	"game.h"
+
