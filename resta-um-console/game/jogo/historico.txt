@@ -1,0 +1,10 @@
+Nome                           Tabuleiro           Resultado       Jogadas      Tempo
+
+Will                    Tabuleiro Padrão Inglês      Perdeu           0          0:10
+
+Will                         Tabuleiro Cruz          Ganhou           7          0:22
+
+Will                    Tabuleiro Padrão Inglês      Perdeu           0          0:43
+
+Will                         Tabuleiro Cruz          Ganhou           5          0:08
+

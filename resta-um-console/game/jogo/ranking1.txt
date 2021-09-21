@@ -1,0 +1,21 @@
+Nome                           Tabuleiro            Resultado      Jogadas      Tempo
+
+wi                      Tabuleiro Padrao Ingles     $Ganhou           40         9:59
+
+225                     Tabuleiro Padrao Frances    $Ganhou           40         9:59
+
+wen                        Tabuleiro Iniciante      $Ganhou           40         9:59
+
+Will                          Tabuleiro L           $Ganhou           3          0:07
+
+35                            Tabuleiro P           $Ganhou           40         9:59
+
+Will                         Tabuleiro Cruz         $Ganhou           5          0:06
+
+ww                        Tabuleiro Quadrados       $Ganhou           40         9:59
+
+29                          Tabuleiro Mais          $Ganhou           40         9:59
+
+will                          Tabuleiro X           $Ganhou           40         9:59
+
+w2                         Tabuleiro Espelho        $Ganhou           40         9:59
