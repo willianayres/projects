@@ -1,0 +1,575 @@
+# depslib dependency file v1.0
+1582916553 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\main.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1579203682 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\teclado.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579110258 c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\teclado.h
+	<allegro.h>
+
+1582726762 c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\menu.h
+
+1582916042 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\menu.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1582916042 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\tabuleiro.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1582842163 c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\tabuleiro.h
+	<allegro.h>
+
+1582831036 c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\jogada.h
+
+1582916042 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\jogada.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1582726735 c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\textos.h
+
+1582916043 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\textos.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1580148981 c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\botao.h
+	<allegro.h>
+	<stdlib.h>
+
+1580223710 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaumgrafica\botao.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"botao.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583286483 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\jogada.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583283510 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\teclado.h
+	<allegro.h>
+
+1583199080 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\menu.h
+
+1583264433 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\tabuleiro.h
+	<allegro.h>
+
+1582831036 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\jogada.h
+
+1583198780 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\textos.h
+
+1583286756 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\main.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1583284031 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\menu.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583286360 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\tabuleiro.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583284009 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\teclado.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583282998 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\textos.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1583283935 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\controle.h
+	<allegro.h>
+
+1583284010 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\controle.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599697301 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\controle.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"controle.h"
+	"variables.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599761109 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\teclado.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
+1599757679 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\menu.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"control.h"
+	"file.h"
+	"tabuleiro.h"
+	"teclado.h"
+	"variables.h"
+
+1599766228 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\tabuleiro.h
+	<allegro.h>
+	"menu.h"
+
+1599762174 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\jogada.h
+	"menu.h"
+	"tabuleiro.h"
+
+1599757379 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\textos.h
+	"variables.h"
+
+1599703479 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\controle.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"teclado.h"
+	"tabuleiro.h"
+	"variables.h"
+
+1599766101 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\jogada.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"control.h"
+	"variables.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599748570 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\main.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"control.h"
+	"variables.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1599764206 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\menu.c
+	"menu.h"
+
+1599766093 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\tabuleiro.c
+	"tabuleiro.h"
+	"jogada.h"
+
+1599761109 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\teclado.c
+	"teclado.h"
+
+1599757379 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\textos.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"control.h"
+	"variables.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599748410 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\files.c
+	"file.h"
+
+1599748410 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599739478 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\variables.h
+	<allegro.h>
+
+1599762633 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\control.c
+	"control.h"
+
+1599762633 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum_2\control.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"teclado.h"
+	"tabuleiro.h"
+	"variables.h"
+
+1599849722 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"control.h"
+	"variables.h"
+
+1599782665 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\teclado.h
+	<allegro.h>
+
+1599757679 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\menu.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"control.h"
+	"file.h"
+	"tabuleiro.h"
+	"teclado.h"
+	"variables.h"
+
+1599848772 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\control.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"tabuleiro.h"
+	"variables.h"
+
+1599846924 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\tabuleiro.h
+	<allegro.h>
+	"menu.h"
+
+1599849722 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\variables.h
+	<allegro.h>
+
+1599833867 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599847957 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\jogada.h
+	"menu.h"
+	"tabuleiro.h"
+
+1599847957 c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\textos.h
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"variables.h"
+
+1599846114 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\menu.c
+	"menu.h"
+
+1599782626 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\teclado.c
+	"teclado.h"
+
+1599848772 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\textos.c
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"file.h"
+
+1599848772 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\control.c
+	"control.h"
+
+1599834090 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\files.c
+	"file.h"
+
+1599847957 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\jogada.c
+	<allegro.h>
+	"teclado.h"
+	"menu.h"
+	"tabuleiro.h"
+	"jogada.h"
+	"textos.h"
+	"control.h"
+	"variables.h"
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599846709 source:c:\users\willian\documents\programas\projeto_restaumgrafica\restaum\tabuleiro.c
+	"tabuleiro.h"
+	"textos.h"
+	"jogada.h"
+
+1600431954 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\control.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+	"control.h"
+	"keystates.h"
+
+1600431782 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\control.h
+
+1600204156 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\tabuleiro.h
+	<allegro.h>
+
+1600373553 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\menu.h
+
+1600208383 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\file.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"board.h"
+	"variables.h"
+
+1599782665 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\teclado.h
+	<allegro.h>
+
+1600208383 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\variables.h
+	<allegro.h>
+
+1600195727 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\files.c
+	"file.h"
+
+1600204500 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\jogada.c
+	<allegro.h>
+	"control.h"
+	"menu.h"
+	"file.h"
+	"tabuleiro.h"
+	"teclado.h"
+	"textos.h"
+	"jogada.h"
+	"variables.h"
+
+1600203624 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\jogada.h
+	"tabuleiro.h"
+
+1600204738 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\textos.h
+	"board.h"
+	"variables.h"
+
+1600432380 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\menu.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"board.h"
+	"control.h"
+	"file.h"
+	"keystates.h"
+	"menu.h"
+	"variables.h"
+
+1600204500 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\tabuleiro.c
+	"control.h"
+	"menu.h"
+	"file.h"
+	"jogada.h"
+	"tabuleiro.h"
+	"teclado.h"
+	"textos.h"
+
+1599782626 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\teclado.c
+	"teclado.h"
+
+1600204500 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\textos.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+	"textos.h"
+
+1600377836 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"board.h"
+	"control.h"
+	"file.h"
+	"game.h"
+	"keystates.h"
+	"menu.h"
+	"variables.h"
+
+1600374230 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\board.h
+	<allegro.h>
+
+1600447249 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\board.c
+	"board.h"
+	"control.h"
+	"file.h"
+	"game.h"
+	"keystates.h"
+	"menu.h"
+
+1600393373 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\game.h
+	"board.h"
+
+1600447262 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\game.c
+	<allegro.h>
+	"board.h"
+	"control.h"
+	"file.h"
+	"game.h"
+	"keystates.h"
+	"menu.h"
+	"variables.h"
+
+1600447249 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\file.c
+	<allegro.h>
+	"file.h"
+
+1600286656 c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\keystates.h
+	<allegro.h>
+
+1600286656 source:c:\users\willian\documents\programas\projeto_restaumgrafica\projeto_restaum\keystates.c
+	"keystates.h"
+
