@@ -1,0 +1,2 @@
+Nome                       Tabuleiro               Resultado       Jogadas      Tempo
+

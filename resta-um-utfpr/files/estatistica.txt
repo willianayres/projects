@@ -1,0 +1,4 @@
+Nome                       Tabuleiro               Resultado       Jogadas      Tempo
+
+will                     Tabuleiro Cruz             Perdeu            0          0:09
+
