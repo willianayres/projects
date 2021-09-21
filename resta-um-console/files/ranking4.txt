@@ -1,0 +1,25 @@
+Nome                           Tabuleiro            Resultado      Jogadas      Tempo
+
+will                    Tabuleiro Floco de Neve     $Ganhou           40         9:59
+
+will                       Tabuleiro Losângo        $Ganhou           40         9:59
+
+will                      Tabuleiro Forquilhas      $Ganhou           40         9:59
+
+will                       Tabuleiro Espiral        $Ganhou           40         9:59
+
+22                     Tabuleiro Quadrado Francês   $Ganhou           40         9:59
+
+33                        Tabuleiro Cruzamento      $Ganhou           40         9:59
+
+44                         Tabuleiro Octógono       $Ganhou           40         9:59
+
+55                        Tabuleiro Ventilador      $Ganhou           40         9:59
+
+66                           Tabuleiro Nave         $Ganhou           40         9:59
+
+will                   Tabuleiro Primeiro Buraco    $Ganhou           40         9:59
+
+77                      Tabuleiro Quatro Buracos    $Ganhou           40         9:59
+
+88                   Tabuleiro Francês Alternativo  $Ganhou           40         9:59

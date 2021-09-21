@@ -1,0 +1,4 @@
+Nome                           Tabuleiro           Resultado       Jogadas      Tempo
+
+Will                         Tabuleiro Cruz          Ganhou           6          0:08
+

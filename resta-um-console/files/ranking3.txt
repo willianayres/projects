@@ -1,0 +1,21 @@
+Nome                           Tabuleiro            Resultado      Jogadas      Tempo
+
+ary                      Tabuleiro Auto Estrada     $Ganhou           40         9:59
+
+caue                      Tabuleiro Ampulheta       $Ganhou           40         9:59
+
+caue                        Tabuleiro Barra         $Ganhou           40         9:59
+
+will                       Tabuleiro Círculo        $Ganhou           40         9:59
+
+39                         Tabuleiro Cristal        $Ganhou           40         9:59
+
+04                         Tabuleiro Prisão         $Ganhou           40         9:59
+
+11                        Tabuleiro X Negrito       $Ganhou           40         9:59
+
+anna                       Tabuleiro Foguete        $Ganhou           40         9:59
+
+04                         Tabuleiro Caveira        $Ganhou           40         9:59
+
+30                         Tabuleiro 5 Cruzes       $Ganhou           40         9:59

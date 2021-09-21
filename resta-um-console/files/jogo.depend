@@ -1,0 +1,857 @@
+# depslib dependency file v1.0
+1575054413 source:c:\restaum\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1573578561 c:\restaum\jogo\restaum.h
+
+1573585644 source:c:\restaum\jogo\restaum.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+
+1574973782 c:\restaum\jogo\menu.h
+
+1574973782 c:\restaum\jogo\tabuleiro.h
+
+1574990272 c:\restaum\jogo\principal.h
+
+1574990534 source:c:\restaum\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575056312 source:c:\restaum\jogo\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1574997672 source:c:\restaum\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1574973782 c:\restaum\jogo\estatistica.h
+
+1574978982 source:c:\restaum\jogo\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575566725 source:c:\users\daeln\desktop\jogo\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575493896 c:\users\daeln\desktop\jogo\menu.h
+
+1575423580 c:\users\daeln\desktop\jogo\tabuleiro.h
+
+1575423750 c:\users\daeln\desktop\jogo\principal.h
+
+1575493896 c:\users\daeln\desktop\jogo\estatistica.h
+
+1575552938 source:c:\users\daeln\desktop\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575568692 source:c:\users\daeln\desktop\jogo\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575569351 source:c:\users\daeln\desktop\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1574978982 source:c:\users\willj\desktop\jogo - cópia 2 principal gustavo\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1574973782 c:\users\willj\desktop\jogo - cópia 2 principal gustavo\menu.h
+
+1575069846 c:\users\willj\desktop\jogo - cópia 2 principal gustavo\tabuleiro.h
+
+1574990272 c:\users\willj\desktop\jogo - cópia 2 principal gustavo\principal.h
+
+1574973782 c:\users\willj\desktop\jogo - cópia 2 principal gustavo\estatistica.h
+
+1575054414 source:c:\users\willj\desktop\jogo - cópia 2 principal gustavo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1574990534 source:c:\users\willj\desktop\jogo - cópia 2 principal gustavo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575056314 source:c:\users\willj\desktop\jogo - cópia 2 principal gustavo\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1574997672 source:c:\users\willj\desktop\jogo - cópia 2 principal gustavo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575340467 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1574973782 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\menu.h
+
+1575337101 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\tabuleiro.h
+
+1575339553 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\principal.h
+
+1575337564 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\estatistica.h
+
+1575343658 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575332648 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575340225 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575332648 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo - cópia 2 principal gustavo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575496915 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575497494 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\menu.h
+
+1575427178 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\tabuleiro.h
+
+1575427348 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\principal.h
+
+1575497494 c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\estatistica.h
+
+1575494371 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575479979 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575375384 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575463683 source:c:\users\willj\onedrive\documents\will\eletronica\prog\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575375384 source:c:\users\willj\desktop\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575497494 c:\users\willj\desktop\jogo\menu.h
+
+1575427178 c:\users\willj\desktop\jogo\tabuleiro.h
+
+1575427348 c:\users\willj\desktop\jogo\principal.h
+
+1575497494 c:\users\willj\desktop\jogo\estatistica.h
+
+1575494371 source:c:\users\willj\desktop\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575479979 source:c:\users\willj\desktop\jogo\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575463683 source:c:\users\willj\desktop\jogo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575514829 source:c:\users\willj\desktop\jogo\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+	<time.h>
+
+1575569559 source:c:\users\daeln\desktop\jogo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575556538 source:c:\users\willj\desktop\jogosementer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575596569 c:\users\willj\desktop\jogosementer\menu.h
+
+1575427180 c:\users\willj\desktop\jogosementer\tabuleiro.h
+
+1575427350 c:\users\willj\desktop\jogosementer\principal.h
+
+1575497496 c:\users\willj\desktop\jogosementer\estatistica.h
+
+1575588329 source:c:\users\willj\desktop\jogosementer\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575584462 source:c:\users\willj\desktop\jogosementer\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575584462 source:c:\users\willj\desktop\jogosementer\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575584462 source:c:\users\willj\desktop\jogosementer\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575584462 source:c:\users\willj\desktop\restaum\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575596569 c:\users\willj\desktop\restaum\menu.h
+
+1575427180 c:\users\willj\desktop\restaum\tabuleiro.h
+
+1575427350 c:\users\willj\desktop\restaum\principal.h
+
+1575497496 c:\users\willj\desktop\restaum\estatistica.h
+
+1575556538 source:c:\users\willj\desktop\restaum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575588329 source:c:\users\willj\desktop\restaum\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575596569 source:c:\users\willj\desktop\restaum\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1575584462 source:c:\users\willj\desktop\restaum\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576029116 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576027938 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\menu.h
+
+1576034281 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\tabuleiro.h
+
+1576027937 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\principal.h
+
+1576027937 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\estatistica.h
+
+1575556538 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576029223 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576036503 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576036225 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576173697 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576170826 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\menu.h
+
+1576034281 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\tabuleiro.h
+
+1576027937 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\principal.h
+
+1576173356 c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\estatistica.h
+
+1576091387 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576173356 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576118234 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576163290 source:c:\users\willj\onedrive\documents\will\eletronica\prog\restaum_rollback\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576170098 source:e:\restaum_rollback\estatistica.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576167228 e:\restaum_rollback\menu.h
+
+1576030682 e:\restaum_rollback\tabuleiro.h
+
+1576024338 e:\restaum_rollback\principal.h
+
+1576169758 e:\restaum_rollback\estatistica.h
+
+1576087788 source:e:\restaum_rollback\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576169758 source:e:\restaum_rollback\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576114636 source:e:\restaum_rollback\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1576159692 source:e:\restaum_rollback\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1599136713 source:c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\estatistica.c
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Estatistica.h"
+
+1599138465 c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+
+1599078747 c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\tabuleiro.h
+
+1599081484 c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\principal.h
+
+1599136713 c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\estatistica.h
+
+1599138438 source:c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\menu.c
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Arquivos.h"
+
+1599139820 source:c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\principal.c
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Arquivos.h"
+
+1599138329 source:c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\tabuleiro.c
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Arquivos.h"
+
+1599139847 source:c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\main.c
+	<locale.h>
+	"Menu.h"
+
+1599137460 c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\arquivos.h
+
+1599138090 source:c:\users\willian\documents\programas\projeto_restaum\projeto_restaum\arquivos.c
+	"Menu.h"
+	"Tabuleiro.h"
+	"Principal.h"
+	"Arquivos.h"
+

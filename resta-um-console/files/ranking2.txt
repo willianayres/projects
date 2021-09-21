@@ -1,0 +1,21 @@
+Nome                           Tabuleiro            Resultado      Jogadas      Tempo
+
+Will                        Tabuleiro Canto         $Ganhou           10         0:25
+
+225                          Tabuleiro Oito         $Ganhou           40         9:59
+
+wen                        Tabuleiro Cartola        $Ganhou           40         9:59
+
+wall                       Tabuleiro Casinha        $Ganhou           40         9:59
+
+35                         Tabuleiro Plateia        $Ganhou           40         9:59
+
+will                        Tabuleiro Abajur        $Ganhou           40         9:59
+
+ww                           Tabuleiro Alvo         $Ganhou           40         9:59
+
+29                        Tabuleiro Triângulo       $Ganhou           40         9:59
+
+will                         Tabuleiro Anel         $Ganhou           40         9:59
+
+w2                         Tabuleiro Flecha         $Ganhou           40         9:59
