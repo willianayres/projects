@@ -4,5 +4,4 @@
   
 ## Observações
 
-  * Na pasta '/files' encontram-se todos os arquivos do projeto. Caso queira ver, copiar, e se possível, até mandar dicas de como melhorar futuros códigos, sinta-se a vontade.
-  * Na pasta '/game' encotram-se todos os arquivos compilados do simulador, sinta-se a vontade para baixar e usufruir do simulador.
+  * Na pasta '/files' encontram-se todos os arquivos do projeto, incluindo todos os arquivos já compilados. Caso queira ver, copiar, e se possível, até mandar dicas de como melhorar futuros códigos, sinta-se a vontade.
