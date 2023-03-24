@@ -8,5 +8,7 @@ de base para aprendizagem das linguagens.
 
 ## Projetos
 
-  * [Estudos](../../tree/main/Estudos_C++)
-  * [Projetos](../../tree/main/Projetos_C++)
+  * [Resta Um - Console](../../tree/main/resta-um-console)
+  * [Resta Um - Estilizado](../../tree/main/resta-um-estilizado)
+  * [Resta Um - UTFPR](../../tree/main/resta-um-utfpr)
+  * [Snake](../../tree/main/snake)
