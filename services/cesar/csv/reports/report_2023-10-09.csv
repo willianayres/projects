@@ -1,0 +1,186 @@
+Area SA01 added successfuly!
+Area SA02 added successfuly!
+Area SA03 added successfuly!
+Area SA04 added successfuly!
+Area SA05 added successfuly!
+Area SA06 added successfuly!
+Area SA07 added successfuly!
+Area SA08 added successfuly!
+Area SA09 added successfuly!
+Area SA10 added successfuly!
+Area SA11 added successfuly!
+Area SA12 added successfuly!
+Area SA13 added successfuly!
+Area SA14 added successfuly!
+Area SA15 added successfuly!
+Area SA16 added successfuly!
+Area SA17 added successfuly!
+Area Cargo added successfuly!
+"SA01: {'size': 10.0, 'coordinates': (25.952615, -97.390962), 'penalty': 0, 'score': 1.0, 'packages': []}"
+"SA02: {'size': 10.0, 'coordinates': (25.952261, -97.390803), 'penalty': 0, 'score': 2.0, 'packages': [('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1), ('SSA57', 1)]}"
+"SA03: {'size': 10.0, 'coordinates': (25.952317, -97.391949), 'penalty': 0, 'score': 3.0, 'packages': [('SSA32', 1), ('SSA32', 1)]}"
+"SA04: {'size': 10.0, 'coordinates': (25.9521, -97.391912), 'penalty': 0, 'score': 4.0, 'packages': [('SSA30', 1)]}"
+"SA05: {'size': 10.0, 'coordinates': (25.951906, -97.391864), 'penalty': 0, 'score': 5.0, 'packages': [('SSA31', 1)]}"
+"SA06: {'size': 10.0, 'coordinates': (25.951955, -97.393093), 'penalty': 0, 'score': 6.0, 'packages': [('SSA33', 1)]}"
+"SA07: {'size': 10.0, 'coordinates': (25.951741, -97.393019), 'penalty': 0, 'score': 7.0, 'packages': []}"
+"SA08: {'size': 10.0, 'coordinates': (25.951527, -97.392937), 'penalty': 0, 'score': 8.0, 'packages': []}"
+"SA09: {'size': 10.0, 'coordinates': (25.951369, -97.394728), 'penalty': 0, 'score': 9.0, 'packages': []}"
+"SA10: {'size': 10.0, 'coordinates': (25.951176, -97.39467), 'penalty': 0, 'score': 10.0, 'packages': []}"
+"SA11: {'size': 10.0, 'coordinates': (25.950943, -97.394587), 'penalty': 0, 'score': 11.0, 'packages': []}"
+"SA12: {'size': 10.0, 'coordinates': (25.951088, -97.395568), 'penalty': 0, 'score': 12.0, 'packages': []}"
+"SA13: {'size': 10.0, 'coordinates': (25.950873, -97.39551), 'penalty': 0, 'score': 13.0, 'packages': []}"
+"SA14: {'size': 10.0, 'coordinates': (25.950644, -97.39547), 'penalty': 0, 'score': 14.0, 'packages': []}"
+"SA15: {'size': 10.0, 'coordinates': (25.950895, -97.396159), 'penalty': 0, 'score': 15.0, 'packages': []}"
+"SA16: {'size': 10.0, 'coordinates': (25.950613, -97.396227), 'penalty': 0, 'score': 16.0, 'packages': []}"
+"SA17: {'size': 10.0, 'coordinates': (25.950315, -97.396218), 'penalty': 0, 'score': 17.0, 'packages': []}"
+"Cargo: {'size': inf, 'coordinates': (25.958128, -97.378015), 'penalty': 0, 'score': 0.0, 'packages': [('SSA57', 0), ('SSA57', 0), ('SSA57', 0), ('SSA56', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSB64', 0), ('SSC22', 0), ('SSC22', 0), ('SSC22', 0), ('SSC22', 0), ('SSC22', 0), ('SSC22', 0)]}"
+Added package: SSA57 to entries.
+Added package: SSA57 to entries.
+Added package: SSA57 to entries.
+Added package: SSA56 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSB64 to entries.
+Added package: SSC22 to entries.
+Added package: SSC22 to entries.
+Added package: SSC22 to entries.
+Added package: SSC22 to entries.
+Added package: SSC22 to entries.
+Added package: SSC22 to entries.
+Finding area for package: None
+Finding area for package: SA02
+Finding area for package: SA02
+Loaded 3 packages to the vehicle.
+Finding area for package: None
+Finding nearest available area: SA01
+"Moved Vehicle from Cargo to SA01. Moved 1,433 km."
+Removed package SSA56 from 'Cargo' count.
+Package SSA56 assigned to Area SA01
+Finding area for package: None
+Finding nearest available area: SA07
+"Moved Vehicle from SA01 to SA07. Moved 0,228 km."
+Removed package SSA57 from 'Cargo' count.
+Package SSA57 assigned to Area SA07
+Finding area for package: SA07
+"Moved Vehicle from SA07 to SA07. Moved 0,000 km."
+Removed package SSA57 from 'Cargo' count.
+Package SSA57 assigned to Area SA07
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA07 to 'Cargo'. Moved 1,661 km."
+Finding area for package: SA02
+Finding nearest available area: SA08
+"Moved Vehicle from Cargo to SA08. Moved 0,232 km."
+Reorganized area SA01. Moved packages to SA08.
+Finding area for package: None
+Finding area for package: None
+Loaded 3 packages to the vehicle.
+Finding area for package: SA07
+"Moved Vehicle from SA08 to SA07. Moved 0,025 km."
+Removed package SSA57 from 'Cargo' count.
+Package SSA57 assigned to Area SA07
+Finding area for package: None
+Finding nearest available area: SA01
+"Moved Vehicle from SA07 to SA01. Moved 0,228 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: SA01
+"Moved Vehicle from SA01 to SA01. Moved 0,000 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA01 to 'Cargo'. Moved 1,433 km."
+Finding area for package: None
+Finding area for package: None
+Finding area for package: None
+Loaded 3 packages to the vehicle.
+Finding area for package: SA01
+"Moved Vehicle from Cargo to SA01. Moved 1,433 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: SA01
+"Moved Vehicle from SA01 to SA01. Moved 0,000 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: SA01
+"Moved Vehicle from SA01 to SA01. Moved 0,000 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA01 to 'Cargo'. Moved 1,433 km."
+Finding area for package: None
+Finding area for package: None
+Finding area for package: None
+Loaded 3 packages to the vehicle.
+Finding area for package: SA01
+"Moved Vehicle from Cargo to SA01. Moved 1,433 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: SA01
+"Moved Vehicle from SA01 to SA01. Moved 0,000 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: SA01
+"Moved Vehicle from SA01 to SA01. Moved 0,000 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA01 to 'Cargo'. Moved 1,433 km."
+Finding area for package: None
+Finding area for package: None
+Finding area for package: None
+Loaded 3 packages to the vehicle.
+Finding area for package: SA01
+"Moved Vehicle from Cargo to SA01. Moved 1,433 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: SA01
+"Moved Vehicle from SA01 to SA01. Moved 0,000 km."
+Removed package SSB64 from 'Cargo' count.
+Package SSB64 assigned to Area SA01
+Finding area for package: None
+Finding nearest available area: SA09
+"Moved Vehicle from SA01 to SA09. Moved 0,402 km."
+Removed package SSC22 from 'Cargo' count.
+Package SSC22 assigned to Area SA09
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA09 to 'Cargo'. Moved 1,834 km."
+Finding area for package: None
+Finding area for package: None
+Finding area for package: None
+Loaded 3 packages to the vehicle.
+Finding area for package: SA09
+"Moved Vehicle from Cargo to SA09. Moved 1,834 km."
+Removed package SSC22 from 'Cargo' count.
+Package SSC22 assigned to Area SA09
+Finding area for package: SA09
+"Moved Vehicle from SA09 to SA09. Moved 0,000 km."
+Removed package SSC22 from 'Cargo' count.
+Package SSC22 assigned to Area SA09
+Finding area for package: SA09
+"Moved Vehicle from SA09 to SA09. Moved 0,000 km."
+Removed package SSC22 from 'Cargo' count.
+Package SSC22 assigned to Area SA09
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA09 to 'Cargo'. Moved 1,834 km."
+Finding area for package: None
+Finding area for package: None
+Loaded 2 packages to the vehicle.
+Finding area for package: SA09
+"Moved Vehicle from Cargo to SA09. Moved 1,834 km."
+Removed package SSC22 from 'Cargo' count.
+Package SSC22 assigned to Area SA09
+Finding area for package: SA09
+"Moved Vehicle from SA09 to SA09. Moved 0,000 km."
+Removed package SSC22 from 'Cargo' count.
+Package SSC22 assigned to Area SA09
+Packages unloaded from the vehicle.
+"Moved Vehicle from SA09 to 'Cargo'. Moved 1,834 km."
+All packages distributed.
+CSV file 'export.csv' created successfully.
